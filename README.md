@@ -1,7 +1,7 @@
 # 🎬 Netflix Clone
 
 A simple and responsive **Netflix Clone** built using **HTML and CSS**.  
-This project recreates the look and feel of Netflix’s landing page UI for learning and practice purposes.
+This project recreates the look and feel of Netflix’s landing page UI for learning and practice purposes
 
 ---
 
