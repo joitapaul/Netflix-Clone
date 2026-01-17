@@ -8,7 +8,7 @@ This project recreates the look and feel of Netflix’s landing page UI for lear
 ## 📌 Project Overview
 
 This Netflix Clone focuses on:
-- Clean UI design
+- Clean UI designerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 - Layout structuring
 - Styling with CSS
 - Media and asset handling
